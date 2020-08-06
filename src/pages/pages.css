@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.product {
+    padding: 10px;
+    list-style: none;
+    border-radius: 5px;
+    margin: 40px 10px 0px 20px;
+    box-shadow: 8px 8px 8px 8px rgba(126,87,88,.1), 8px 8px 8px 8px rgba(126,87,88,.1);
+}
+
+.cartt {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.button-remove, .remove {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}

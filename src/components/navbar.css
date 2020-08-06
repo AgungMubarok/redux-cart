@@ -1,0 +1,20 @@
+.navbarC {
+    background-color: rgb(190, 190, 190);
+    padding: 15px 0px;
+}
+
+.navbarC ul {
+    display: flex;
+}
+
+.navbarC ul li {
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+
+.navbarC ul li a {
+    text-decoration: none;
+    color: black;
+    margin-right: 150px;
+}
